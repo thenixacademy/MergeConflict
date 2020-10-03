@@ -3,11 +3,13 @@
 
 void feature1()
 {
-	//some awesome feature that needs to be coded
+	//some awesome feature 
+	printf("Feature 1");
 }
 
 int main(int argc, char *argv[])
 {
-	printf("Hello world");
+	printf("Hello world \n");
+	feature1();
 	return 0;
 }
