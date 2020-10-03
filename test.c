@@ -4,7 +4,8 @@
 void feature1()
 {
 	//some awesome feature 
-	printf("Feature 1");
+	printf("Feature 1 \n");
+	printf("\t is awesome!\n");
 }
 
 int main(int argc, char *argv[])
